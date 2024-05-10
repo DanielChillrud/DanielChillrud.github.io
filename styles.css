@@ -4,3 +4,27 @@ body {
     text-align: center;
     font-family: Roboto, "Helvetica Neue", sans-serif;
 }
+
+/* Navigation bar */
+.topnav {
+    background-color: #45B39D;
+    overflow: hidden;
+}
+
+/* Links within navigation bar */
+.topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a.active {
+    background-color: #138D75;
+}
+
+.topnav-right {
+    float: right;
+}
