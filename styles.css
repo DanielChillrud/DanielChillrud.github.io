@@ -28,3 +28,8 @@ body {
 .topnav-right {
     float: right;
 }
+
+.icon {
+    width: 18px;
+    height: 18px;
+}
